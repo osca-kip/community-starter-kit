@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+mona is a bot that helps new Github users get to know its intercacies
 
 ## What it does
 
 FEATURES PLACEHOLDER
+chatbot
+user friendly
+
 
 ## Getting started
 
